@@ -11,16 +11,16 @@ name = "pypi"
 
 [dev-packages]
 
-bumpversion = "==0.5.3"
-watchdog = "==0.8.3"
-"flake8" = "==2.6.0"
-tox = "==2.3.1"
-coverage = "==4.1"
-sphinx = "==1.4.8"
+bumpversion = "*"
+watchdog = "*"
+"flake8" = "*"
+tox = "*"
+coverage = "*"
+sphinx = "*"
 cryptography = "*"
-pyyaml = "==3.11"
-pytest = "==2.9.2"
-pytest-runner = "==2.11.1"
+pyyaml = "*"
+pytest = "*"
+pytest-runner = "*"
 
 
 [requires]
