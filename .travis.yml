@@ -18,15 +18,11 @@ deploy:
       dHBXZUVuQkNyQWRxRGFvRVFTS0ZoVlo2K0xYWHVuUFRGWHQ1M3p5YmJpM21ZL2IyZ2phWlVyU2oy
       YVhhSExBZXZvZTI0S0x4eWt4c0R3RUtscHA3T3BiUHNiaFRjdmg3ZWNaTXowaHJ5OWt2UUNQUmM9
   true:
-    python: 2.7
+    python: 3.6
     repo: jameslafa/coinerei
     tags: true
 install: pip install -U tox-travis
 language: python
 python:
-- 3.5
-- 3.4
-- 3.3
-- 2.7
-- 2.6
+- 3.6
 script: tox
