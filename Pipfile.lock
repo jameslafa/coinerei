@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "5330b2240b6f0e4f955868a9cfa7e8e5f0d8f80194bccb57a8e27b22f886862a"
+            "sha256": "6b7a522b798e17b1b4550c851ad4cac32a948367d7156f42d402c51a94fcb33e"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -247,6 +247,19 @@
             ],
             "version": "==0.1.2"
         },
+        "pew": {
+            "hashes": [
+                "sha256:a5256586e169199cb2213225261b6bdd7b657c309dcf4a02b61994308b313d4d",
+                "sha256:b8312728526c9010295c88215c95a1b1731fdbd1a568f728e069932bd0545611"
+            ],
+            "version": "==1.1.2"
+        },
+        "pipenv": {
+            "hashes": [
+                "sha256:e1fb0aa2571c9c5a1b403ac782e7da09719625ac51a1238b0e6c5d157c3c679a"
+            ],
+            "version": "==9.0.1"
+        },
         "pluggy": {
             "hashes": [
                 "sha256:7f8ae7f5bdf75671a718d2daf0a64b7885f74510bcd98b1a0bb420eb9a9d0cff"
@@ -376,6 +389,13 @@
             ],
             "version": "==2.9.1"
         },
+        "tox-pipenv": {
+            "hashes": [
+                "sha256:d2fd7ea04aef8549d0689036e55fb11b1b13201295ceabe1363be101cf53b3ee",
+                "sha256:e71c111710b1c92ee5b33a6ba31596d70d499667f640752e9ac5e252007dc544"
+            ],
+            "version": "==1.2.1"
+        },
         "urllib3": {
             "hashes": [
                 "sha256:06330f386d6e4b195fbfc736b297f58c5a892e4440e54d294d7004e3a9bbea1b",
@@ -388,8 +408,13 @@
                 "sha256:39d88b533b422825d644087a21e78c45cf5af0ef7a99a1fc9fbb7b481e5c85b0",
                 "sha256:02f8102c2436bb03b3ee6dede1919d1dac8a427541652e5ec95171ec8adbc93a"
             ],
-            "markers": "python_version != '3.2'",
             "version": "==15.1.0"
+        },
+        "virtualenv-clone": {
+            "hashes": [
+                "sha256:6b3be5cab59e455f08c9eda573d23006b7d6fb41fae974ddaa2b275c93cc4405"
+            ],
+            "version": "==0.2.6"
         },
         "watchdog": {
             "hashes": [

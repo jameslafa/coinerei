@@ -14,13 +14,13 @@ name = "pypi"
 bumpversion = "*"
 watchdog = "*"
 "flake8" = "*"
-tox = "*"
 coverage = "*"
 sphinx = "*"
 cryptography = "*"
 pyyaml = "*"
 pytest = "*"
 pytest-runner = "*"
+tox-pipenv = "*"
 
 
 [requires]
