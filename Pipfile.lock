@@ -256,9 +256,9 @@
         },
         "pipenv": {
             "hashes": [
-                "sha256:e1fb0aa2571c9c5a1b403ac782e7da09719625ac51a1238b0e6c5d157c3c679a"
+                "sha256:7a7a5490f37fb689976571bc9e4864589ef6deb3ab9ee09a24417b4f66a5411d"
             ],
-            "version": "==9.0.1"
+            "version": "==10.0.1"
         },
         "pluggy": {
             "hashes": [
