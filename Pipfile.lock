@@ -391,10 +391,10 @@
         },
         "tox-pipenv": {
             "hashes": [
-                "sha256:d2fd7ea04aef8549d0689036e55fb11b1b13201295ceabe1363be101cf53b3ee",
-                "sha256:e71c111710b1c92ee5b33a6ba31596d70d499667f640752e9ac5e252007dc544"
+                "sha256:01dee625ac700e7e515f7c4589a941e774ef3137acd5c072abdfd2ae522197df",
+                "sha256:d6529901e4c98750b084cad05b68bdd26d543d08859ea79e515f24d1211f81ff"
             ],
-            "version": "==1.2.1"
+            "version": "==1.3.0"
         },
         "urllib3": {
             "hashes": [
