@@ -309,10 +309,10 @@
         },
         "pytest-runner": {
             "hashes": [
-                "sha256:71e581622a1fad23cf12c1c1bd23e826e3358ab10b28c6e7e1a88f2f4489bf2f",
-                "sha256:0f7c3a3cf5aead13f54baaa01ceb49e5ae92aba5d3ff1928e81e189c40bc6703"
+                "sha256:d987fec1e31287592ffe1cb823a8c613c533db4c6aaca0ee1191dbc91e2fcc61",
+                "sha256:d23f117be39919f00dd91bffeb4f15e031ec797501b717a245e377aee0f577be"
             ],
-            "version": "==3.0"
+            "version": "==4.2"
         },
         "pytz": {
             "hashes": [
