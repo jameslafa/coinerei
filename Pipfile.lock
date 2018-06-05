@@ -302,10 +302,10 @@
         },
         "pytest": {
             "hashes": [
-                "sha256:b84878865558194630c6147f44bdaef27222a9f153bbd4a08908b16bf285e0b1",
-                "sha256:53548280ede7818f4dc2ad96608b9f08ae2cc2ca3874f2ceb6f97e3583f25bc4"
+                "sha256:26838b2bc58620e01675485491504c3aa7ee0faf335c37fcd5f8731ca4319591",
+                "sha256:32c49a69566aa7c333188149ad48b58ac11a426d5352ea3d8f6ce843f88199cb"
             ],
-            "version": "==3.3.2"
+            "version": "==3.6.1"
         },
         "pytest-runner": {
             "hashes": [
